@@ -1,0 +1,248 @@
+{
+  "basics": {
+    "name": "Giovanni Villanueva",
+    "label": "Diseñador Gráfico +6 Años de experiencia, así como también UI/UX Designer y Desarrollador FrontEnd",
+    "image": "/234567.png",
+    "email": "giovannivilla0224@gmail.com",
+    "phone": "+(503) 7988-5248",
+    "url": "https://midu.dev",
+    "summary": "+6 Años como UI/UX Designer, también soy diseñador gráfico. He trabajado en empresas creando interfaces de usuario asi como liderando empresas para la creacion de nuevas marcas, actualmente trabajo como supervisor en el area IT de un Contact Center como director creativo.",
+    "location": {
+      "address": "TEST",
+      "postalCode": "TEST",
+      "city": "San Miguel",
+      "countryCode": "ES",
+      "region": "El Salvador"
+    },
+    "profiles": [
+      {
+        "network": "X",
+        "username": "Giovanni Villanueva",
+        "url": "https://twitter.com/Giovann97287177"
+      },
+      {
+        "network": "GitHub",
+        "username": "Giovilla0608",
+        "url": "https://github.com/Giovilla-0608"
+      },
+      {
+        "network": "LinkedIn",
+        "username": "Giovilla0608",
+        "url": "https://www.linkedin.com/in/giovanni-villanueva-100b9b208/"
+      }
+
+    ]
+  },
+  "work": [{
+    "name": "Multi Call",
+    "position": "Director Creativo",
+    "url": "https://twitch.tv/midudev",
+    "startDate": "2023-01-01",
+    "endDate": null,
+    "summary": "Actualmente laboro aca como director creativo en el area de Diseño y Prográmación, creando pasarelas de pago para el area de cobros como también paginas para campañas de publicidad.",
+    "highlights": [
+      "TEST"
+    ]
+  },
+  {
+    "name": "Beauty Spot",
+    "position": "Director creativo y Diseñador Grafico",
+    "url": "https://twitch.tv/midudev",
+    "startDate": "2019-06-01",
+    "endDate": "2021-09-01",
+    "summary": "Con esta empresa estuve liderando 5 marcas con las cuales desarrollamos la identidad de la marca, con sus respectivos diseños asi como cubrir los eventos que hacian y documentar con fotos todo lo que se hacia, con lo cual logramos expandirnos hacia paises como Guatemala, Nicaragua, Panamá.",
+    "highlights": [
+      "Started the company"
+    ]
+  },
+  {
+    "name": "Hugo App",
+    "position": "UI/UX Designer",
+    "startDate": "2017-03-01",
+    "endDate": "2019-05-01",
+    "summary": "Crear las interfaces de usuario o experiencias de los clientes para la App de Hugo app, una App de delivery que opero en el salvador desde el 2017 hasta el 2021",
+    "highlights": [
+      "Started the company"
+    ]
+  }],
+  "volunteer": [{
+    "organization": "Organization",
+    "position": "Volunteer",
+    "url": "https://organization.com/",
+    "startDate": "2012-01-01",
+    "endDate": "2013-01-01",
+    "summary": "Description…",
+    "highlights": [
+      "Awarded 'Volunteer of the Month'"
+    ]
+  }],
+  "education": [{
+    "institution": "Universidad Don Bosco",
+    "url": "https://www.uoc.edu/portal/es/index.html",
+    "area": "Ingenieria de software",
+    "studyType": "Bachelor",
+    "startDate": "2020-01-01",
+    "endDate": "2025-01-01",
+    "score": "4.0",
+    "courses": [
+      "DB1101 - Basic SQL"
+    ]
+  }],
+  "awards": [{
+    "title": "Award",
+    "date": "2014-11-01",
+    "awarder": "Company",
+    "summary": "There is no spoon."
+  }],
+  "certificates": [{
+    "name": "Certificate",
+    "date": "2021-11-07",
+    "issuer": "Company",
+    "url": "https://certificate.com"
+  }],
+  "publications": [{
+    "name": "Publication",
+    "publisher": "Company",
+    "releaseDate": "2014-10-01",
+    "url": "https://publication.com",
+    "summary": "Description…"
+  }],
+  "skills": [
+      
+    {
+      "name": "Figma",
+      "level": "Master",
+      "keywords": [
+        "Ui Interfaz", "Prototipo"
+      ]
+    },
+      {
+        "name": "HTML",
+        "level": "Master",
+        "keywords": [
+          "Desarrollo Web", "Frontend"
+        ]
+      },
+      {
+        "name": "CSS",
+        "level": "Master",
+        "keywords": [
+          "Desarrollo Web", "Frontend", "Diseño Responsive"
+        ]
+      },
+      {
+        "name": "JavaScript",
+        "level": "Master",
+        "keywords": [
+          "Desarrollo Web", "Frontend", "Backend", "Fullstack"
+        ]
+      },
+      {
+        "name": "Tailwind",
+        "level": "Avanzado",
+        "keywords": [
+          "Desarrollo Web", "Frontend", "CSS Framework", "Diseño Responsive"
+        ]
+      },
+      {
+        "name": "Node",
+        "level": "Avanzado",
+        "keywords": [
+          "Desarrollo Web", "Backend", "JavaScript", "Servidor"
+        ]
+      },
+      {
+        "name": "Git",
+        "level": "Avanzado",
+        "keywords": [
+          "Control de Versiones", "Colaboración", "Código Fuente"
+        ]
+      },
+      {
+        "name": "GitHub",
+        "level": "Avanzado",
+        "keywords": [
+          "Control de Versiones", "Colaboración", "Código Fuente", "Git"
+        ]
+      },
+      {
+        "name": "React",
+        "level": "Avanzado",
+        "keywords": [
+          "Desarrollo Web", "Frontend", "JavaScript Library", "UI"
+        ]
+      } 
+    ],
+  "languages": [{
+    "language": "Spanish",
+    "fluency": "Native speaker"
+  }, {
+    "language": "English",
+    "fluency": "Advanced"
+  }],
+  "interests": [{
+    "name": "Wildlife",
+    "keywords": [
+      "Ferrets",
+      "Unicorns"
+    ]
+  }],
+  "references": [{
+    "name": "Jane Doe",
+    "reference": "Reference…"
+  }],
+  "projects": [
+    {
+    "name": "UI Rediseño Uber Eats",
+    "isActive": true,
+    "description": "Rediseño de Interfaz de usuario de uber eats con sistema de prototipo con figma",
+    "highlights": [
+      "Pide lo que quieras cuando quieras",
+      "En desarrollo"
+    ],
+    "url": "https://www.behance.net/gallery/154072867/Uber-Eats-Rediseno"
+  }, {
+    "name": "UI Interfaz para veterinaria Salvadoreña",
+    "isActive": true,
+    "description": "Interfaz y prototipo para veterinaria Salvadoreña",
+    "highlights": [
+      "+15,000 animales salvados",
+      "Confiable",
+      "Figma & React"
+    ],
+    "url": "https://www.behance.net/gallery/145013141/Proporsal-User-interface"
+  }, {
+    "name": "UI Interfaz Prime Video",
+    "isActive": true,
+    "description": "Ui Interfaz para la aplicación Prime Video de peliculas, series y mas.",
+    "highlights": [
+      "+200 millones usuarios activos",
+      "Plataforma Peliculas, series y mas"
+    ],
+    "url": "https://www.behance.net/gallery/134552147/Prime-video"
+  }, {
+    "name": "Interfaz para Farmacia San nicolas",
+    "isActive": true,
+    "description": "Rediseño de Interfaz para clientes que compran en distintas tiendas del pais (El Salvador) y previo su envio",
+    "highlights": [
+      "1mill. visitas al mes",
+      "Desarrollado con Astro"
+    ],
+    "url": "https://www.farmaciasannicolas.com/"
+  }, {
+    "name": "Desarrollo de App de Delivery",
+    "isActive": true,
+    "description": "App de Delivery para un grupo de Empresarios Salvadoreños",
+    "highlights": [
+      "100% gratuito"
+    ]
+  }, {
+    "name": "Desarrollo de Marketplace Clickobox",
+    "description": "Desarrollo de marketplace clickbox, tienda de distintos productos de emprededores pequeños de El Salvador, con tienda fisica",
+    "highlights": [
+      "+1,500 ventas por mes",
+      "+5 mil clientes"
+    ],
+    "url": "https://www.facebook.com/clickboxgosv/"
+  }]
+}
